@@ -21,7 +21,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZjbDZrNDQyd2N6cTNlZGZqd290NzA3bWRuenl4NHR6OWpjdDg3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 I'm a passionate developer from **India** 🇮🇳
 
@@ -279,6 +279,9 @@ Machine learning algorithms analyze video feeds in real-time to detect potential
 </div>
 
 ---
+<div align="center">
+  <img alt="Coding" width="800" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGs5cGp5YjhlM3B1dWRvcW5menk0ODcwcWYwdTdwdjZxOHFlZzF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif">
+</div>
 
 ## Connect with Me
 
