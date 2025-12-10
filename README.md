@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello, World! I'm Azhaan</div>
+# <div align="center">Hello, World! I'm Azhaan</div>
 
 <div align="center">
   
@@ -21,7 +21,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 I'm a passionate developer from **India** 🇮🇳
 
@@ -110,7 +110,6 @@ I'm a passionate developer from **India** 🇮🇳
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 </details>
 
 ---
@@ -119,17 +118,17 @@ I'm a passionate developer from **India** 🇮🇳
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AzhaanGlitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AzhaanGlitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
   
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AzhaanGlitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AzhaanGlitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzhaanGlitch&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzhaanGlitch&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
   
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=AzhaanGlitch&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AzhaanGlitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Contribution Stats" />
   
 </div>
 
@@ -303,7 +302,7 @@ Machine learning algorithms analyze video feeds in real-time to detect potential
 
 <br>
 
-![Made with India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=for-the-badge)
+![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=for-the-badge)
 
 ⭐️ From [AzhaanGlitch](https://github.com/AzhaanGlitch)
 
