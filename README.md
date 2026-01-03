@@ -1,321 +1,646 @@
-# <div align="center">Hello, World! I'm Azhaan</div>
-
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhaanalisiddiqui/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhaanalisiddiqui15@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzhaanGlitch)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://azhaan.dev)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=180&section=header&text=Azhaan%20Ali%20Siddiqui&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Blockchain%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Building+scalable+MERN+applications;Specializing+in+AI%2FML+%26+Blockchain;Crafting+Smart+Contracts+on+Ethereum;Transforming+creative+ideas+into+reality;Recreating+nostalgic+experiences+with+modern+tech" alt="Typing Animation" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AzhaanGlitch&color=ff6b35&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AzhaanGlitch)
+[![GitHub followers](https://img.shields.io/github/followers/AzhaanGlitch?style=for-the-badge&color=ff6b35&labelColor=1a1b27)](https://github.com/AzhaanGlitch)
+[![GitHub Stars](https://img.shields.io/github/stars/AzhaanGlitch?style=for-the-badge&color=ff6b35&labelColor=1a1b27)](https://github.com/AzhaanGlitch)
 
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=AzhaanGlitch&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  ![GitHub followers](https://img.shields.io/github/followers/AzhaanGlitch?style=for-the-badge&color=green&logo=github)
-  ![GitHub stars](https://img.shields.io/github/stars/AzhaanGlitch?style=for-the-badge&color=yellow&logo=github)
-  
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## About Me
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZjbDZrNDQyd2N6cTNlZGZqd290NzA3bWRuenl4NHR6OWpjdDg3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-I'm a passionate developer from **India** 🇮🇳
+**Full Stack MERN Developer** from **India** 🇮🇳 specializing in **AI/ML**, **Blockchain** and **Cloud Development**
 
-- **Full Stack MERN Developer** specializing in AI/ML and Cloud Development
-- B.Tech CSE student with hands-on experience in deploying real-world applications
-- I maintain GitHub streaks, compete in hackathons, and learn something new every day
-- Love creating interactive, minimal websites that blend retro aesthetics with modern tech
-- Dedicated to leveraging technology for impactful solutions
-- Currently exploring: **Advanced ML Models** and **Cloud Architecture**
-- Fun fact: I recreated Windows XP as a portfolio website!
+Currently pursuing **B.Tech in Computer Science Engineering** with hands-on experience in deploying real-world applications. I focus on creating scalable, efficient solutions that blend creativity with cutting-edge technology.
 
-<br clear="right"/>
+**What I Do:**
+- Build full-stack MERN applications with modern frameworks
+- Develop AI/ML models for real-world problem solving
+- Create Smart Contracts using Solidity on Ethereum blockchain
+- Design cloud-native architectures and deployment pipelines
+- Create interactive experiences that blend retro aesthetics with modern tech
+- Maintain GitHub streaks and compete in hackathons
 
----
+**Current Focus:**
+- Advanced Machine Learning Models
+- Ethereum Smart Contract Development
+- Decentralized Application (DApp) Architecture
+- Next-Gen Deployment Platforms
+- Real-time Application Development
+- Docker & AWS Infrastructure
 
-## Tech Stack
+**Approach:**
+- Clean, maintainable code following industry best practices
+- Security-first development for blockchain applications
+- User-centric design with immersive experiences
+- Performance optimization and scalability
+- Continuous learning and innovation
+
+**Fun Fact:** I recreated Windows XP as a fully functional portfolio website! 💻
+
+<br clear="both">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+
+## Technical Skills
 
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <br>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+<br>Solidity
+</td>
+</tr>
+</table>
+</div>
 </details>
 
 <details open>
-<summary><b>Frontend Technologies</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
+<br>Material UI
+</td>
+</tr>
+</table>
+</div>
 </details>
 
 <details open>
-<summary><b>Backend Technologies</b></summary>
+<summary><b>Backend & Databases</b></summary>
 <br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+</tr>
+</table>
+</div>
 </details>
 
 <details open>
-<summary><b>Machine Learning & Data Science</b></summary>
+<summary><b>Blockchain & Web3</b></summary>
 <br>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+<br>Solidity
+</td>
+<td align="center" width="96">
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="48" height="48" alt="Ethereum" />
+<br>Ethereum
+</td>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+</td>
+<td align="center" width="96">
+<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" width="48" height="48" alt="MetaMask" />
+<br>MetaMask
+</td>
+<td align="center" width="96">
+<img src="https://docs.web3js.org/img/web3js.svg" width="48" height="48" alt="Web3.js" />
+<br>Web3.js
+</td>
+</td>
+</tr>
+</table>
+</div>
+</details>
 
+<details open>
+<summary><b>AI/ML & Data Science</b></summary>
+<br>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+<br>OpenCV
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+<br>Scikit-learn
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="48" height="48" alt="NumPy" />
+<br>NumPy
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="48" height="48" alt="Pandas" />
+<br>Pandas
+</td>
+</tr>
+</table>
+</div>
 </details>
 
 <details open>
 <summary><b>Cloud & DevOps</b></summary>
 <br>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+<br>Netlify
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<br>GitHub
+</td>
+</tr>
+</table>
+</div>
 </details>
 
-<details open>
-<summary><b>Tools & Technologies</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-</details>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AzhaanGlitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AzhaanGlitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzhaanGlitch&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AzhaanGlitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Contribution Stats" />
-  
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=AzhaanGlitch&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AzhaanGlitch&theme=tokyo-night&hide_border=true&custom_title=Azhaan's%20Contribution%20Graph)](https://github.com/AzhaanGlitch)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake.svg">
-  </picture>
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
 
 ## Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### [Azhaan XP - Windows XP Recreation](https://windows-xp-portfolio-flame.vercel.app/)
+<div align="center">
 
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windows&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Azhaan XP
+**Windows XP Recreation**
 
-A faithful recreation of the Windows XP interface as a modern portfolio website. Features authentic XP boot sequence, draggable windows, Start Menu, and fully responsive window system with z-index management.
+<a href="https://windows-xp-portfolio-flame.vercel.app/">
+  <img src="https://img.shields.io/badge/Windows%20XP-003399?style=flat-square&logo=windows&logoColor=white" width="100%" alt="Windows XP" style="border-radius: 10px;"/>
+</a>
 
-**[⚡ Live Demo](https://windows-xp-portfolio-flame.vercel.app/)** | **[📂 Repository](https://github.com/AzhaanGlitch/windows-xp)**
+<br/>
+
+```javascript
+Tech: React | Tailwind | JS
+```
+
+**Features:**
+- Authentic XP Boot Sequence
+- Draggable Windows System
+- Fully Interactive Interface
+
+<br/>
+
+<a href="https://windows-xp-portfolio-flame.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/AzhaanGlitch/windows-xp">
+<img src="https://img.shields.io/badge/View_Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
-<td width="50%">
 
-### [Azhaan Portfolio - Full Stack MERN](https://azhaan.dev)
+<td width="33%" valign="top">
 
-![MERN](https://img.shields.io/badge/MERN-13aa52?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<div align="center">
 
-A full-stack portfolio built with Express.js, React, and Node.js. Displays skills and experience in an interactive way with smooth animations and modern design.
+### Arvialo
+**Next-Gen Deployment Platform**
 
-**[⚡ Live Demo](https://azhaan.dev)** | **[📂 Repository](https://github.com/AzhaanGlitch/Portfolio)**
+<a href="https://arvialo.vercel.app">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" width="100%" alt="Arvialo" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+```javascript
+Tech: Next.js | Docker | AWS
+```
+
+**Features:**
+- Faster than Vercel
+- Docker Integration
+- AWS Infrastructure
+
+<br/>
+
+<a href="https://arvialo.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/AzhaanGlitch/Arvialo">
+<img src="https://img.shields.io/badge/View_Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+### VigilCam
+**Real-time Motion Detection**
+
+<a href="https://azhaanglitch-vigilcam.hf.space/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="100%" alt="VigilCam" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+```python
+Tech: Python | OpenCV | ML
+```
+
+**Features:**
+- Live Camera Monitoring
+- Motion Analysis
+- Proctoring System
+
+<br/>
+
+<a href="https://azhaanglitch-vigilcam.hf.space/">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+<a href="https://github.com/AzhaanGlitch/VigilCam">
+<img src="https://img.shields.io/badge/View_Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### [Arvialo - Next Gen Deployment Platform](https://arvialo.vercel.app)
+<div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Smart Accident Detector
+**AI-Powered Safety System**
 
-Meet Arvialo, the next-generation deployment platform. A faster and more streamlined alternative to Vercel and Railway for shipping high-performance applications.
+<a href="https://smart-accident-detector-frontend-v1-one.vercel.app/">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" width="100%" alt="Accident Detector" style="border-radius: 10px;"/>
+</a>
 
-**[⚡ Live Demo](https://arvialo.vercel.app)** | **[📂 Repository](https://github.com/AzhaanGlitch/Arvialo)**
+<br/>
 
-</td>
-<td width="50%">
+```python
+Tech: TensorFlow | Keras | DL
+```
 
-### [Crave - Recipe Finder](https://crave-recipe-finder.onrender.com/)
+**Features:**
+- Real-time Detection
+- Deep Learning Model
+- Image Classification
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
 
-Explore thousands of delicious meals from around the world. Find any recipe from a global database in seconds. Simply type what you're craving and discover hundreds of delicious options.
+<a href="https://smart-accident-detector-frontend-v1-one.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/AzhaanGlitch/Smart-Accident-Detector">
+<img src="https://img.shields.io/badge/View_Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**[⚡ Live Demo](https://crave-recipe-finder.onrender.com/)** | **[📂 Repository](https://github.com/AzhaanGlitch/Crave)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [VigilCam - Always On Watch](https://azhaanglitch-vigilcam.hf.space/)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-Real-time motion detection meets unbreakable security. VigilCam delivers seamless proctoring with live camera feeds and motion analysis, ensuring exam integrity without compromise.
-
-**[⚡ Live Demo](https://azhaanglitch-vigilcam.hf.space/)** | **[📂 Repository](https://github.com/AzhaanGlitch/VigilCam)**
+</div>
 
 </td>
-<td width="50%">
 
-### [Smart Accident Detector](https://smart-accident-detector-frontend-v1-one.vercel.app/)
+<td width="33%" valign="top">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Deep_Learning-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<div align="center">
 
-Machine learning algorithms analyze video feeds in real-time to detect potential accidents before they happen. Users can upload images and the trained model will detect if there is an accident or not.
+### Crave
+**Global Recipe Finder**
 
-**[⚡ Live Demo](https://smart-accident-detector-frontend-v1-one.vercel.app/)** | **[📂 Repository](https://github.com/AzhaanGlitch/Smart-Accident-Detector)**
+<a href="https://crave-recipe-finder.onrender.com/">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" width="100%" alt="Crave" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+```javascript
+Tech: MERN | REST API
+```
+
+**Features:**
+- Global Recipe Database
+- Instant Search
+- Detailed Instructions
+
+<br/>
+
+<a href="https://crave-recipe-finder.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+<a href="https://github.com/AzhaanGlitch/Crave">
+<img src="https://img.shields.io/badge/View_Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+### Portfolio
+**Full Stack MERN Website**
+
+<a href="https://azhaan.dev">
+  <img src="https://img.shields.io/badge/MERN-13aa52?style=flat-square&logo=node.js&logoColor=white" width="100%" alt="Portfolio" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+```javascript
+Tech: MERN | Express | Node
+```
+
+**Features:**
+- Modern Design
+- Smooth Animations
+- Interactive Experience
+
+<br/>
+
+<a href="https://azhaan.dev">
+<img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/AzhaanGlitch/Portfolio">
+<img src="https://img.shields.io/badge/View_Code-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## Random Dev Quote
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+
+## GitHub Statistics
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AzhaanGlitch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AzhaanGlitch&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzhaanGlitch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzhaanGlitch&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true&height=300" />
 
 </div>
 
----
+<br>
+
 <div align="center">
-  <img alt="Coding" width="800" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGs5cGp5YjhlM3B1dWRvcW5menk0ODcwcWYwdTdwdjZxOHFlZzF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AzhaanGlitch&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-## Connect with Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+
+## Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/azhaanalisiddiqui/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:azhaanalisiddiqui15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/AzhaanGlitch">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://azhaan.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://windows-xp-portfolio-flame.vercel.app">
-  <img src="https://img.shields.io/badge/Windows%20XP%20Portfolio-Experience-003399?style=for-the-badge&logo=windows&logoColor=white" alt="Windows XP Portfolio"/>
+  <img src="https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windows&logoColor=white" alt="Windows XP Portfolio"/>
 </a>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+
+<div align="center">
+
+## Let's Build The Future Together!
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" alt="Blockchain Coding"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>💡 "The best way to predict the future is to invent it." - Alan Kay</h3>
+</div>
+
+<br/>
+
+### Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzhaanGlitch&theme=radical" width="100%"/>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
+### My Expertise
 
-<br>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" alt="Web Development"/>
+<br><b>Full Stack Development</b>
+<br>MERN Stack Applications
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="Python"/>
+<br><b>AI/ML Engineering</b>
+<br>Deep Learning Models
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" alt="Blockchain"/>
+<br><b>Blockchain Development</b>
+<br>Smart Contracts & DApps
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt="Cloud"/>
+<br><b>Cloud Architecture</b>
+<br>AWS & Docker
+</td>
+</tr>
+</table>
 
-**Show some ❤️ by starring ⭐ some of my repositories!**
+</div>
 
-<br>
+<br/>
 
-![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=for-the-badge)
+---
 
-⭐️ From [AzhaanGlitch](https://github.com/AzhaanGlitch)
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**✨ Crafted by [Azhaan Ali Siddiqui](https://github.com/AzhaanGlitch)**
+
+<br/>
+
+**Open for collaborations | Available for freelance | Always learning**
+
+**Specializing in: MERN Stack | AI/ML | Blockchain | Cloud Architecture | Creative Web Experiences**
+
+<br/>
+
+![Made in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=100&section=footer"/>
 
 </div>
