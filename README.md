@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=180&section=header&text=Azhaan%20Ali%20Siddiqui&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Blockchain%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
+<!-- Matrix/Cyber Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header&text=Azhaan%20Ali%20Siddiqui&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Blockchain%20Developer&descAlignY=51&descAlign=50&animation=fadeIn&fontColor=fff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Building+scalable+MERN+applications;Specializing+in+AI%2FML+%26+Blockchain;Crafting+Smart+Contracts+on+Ethereum;Transforming+creative+ideas+into+reality;Recreating+nostalgic+experiences+with+modern+tech" alt="Typing Animation" />
+<!-- Terminal Style Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=FF6B35&center=true&vCenter=true&width=940&height=80&lines=~%2F+sudo+apt+install+awesome-developer;~%2F+Initializing+Azhaan+Ali+Siddiqui...;~%2F+Loading+MERN+Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;~%2F+AI%2FML+%26+Blockchain+Ready+%E2%9C%93;~%2F+Building+the+future%2C+one+commit+at+a+time;~%2F+Recreating+nostalgic+experiences+with+modern+tech" alt="Typing Animation" />
 
 <br/>
 
@@ -12,11 +14,24 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- Hologram Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZjbDZrNDQyd2N6cTNlZGZqd290NzA3bWRuenl4NHR6OWpjdDg3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<div align="center">
+  
+<!-- Animated Tech Stack Icons -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</p>
+
+</div>
 
 **Full Stack MERN Developer** from **India** 🇮🇳 specializing in **AI/ML**, **Blockchain** and **Cloud Development**
 
@@ -45,11 +60,12 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 - Performance optimization and scalability
 - Continuous learning and innovation
 
-**Fun Fact:** I recreated Windows XP as a fully functional portfolio website! 💻
+**Fun Fact:** I recreated Windows XP as a fully functional portfolio website! 
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+<!-- Blockchain Animation Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 ## Technical Skills
 
@@ -168,8 +184,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="48" height="48" alt="Ethereum" />
 <br>Ethereum
 </td>
-
-</td>
 <td align="center" width="96">
 <img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" width="48" height="48" alt="MetaMask" />
 <br>MetaMask
@@ -177,7 +191,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 <td align="center" width="96">
 <img src="https://docs.web3js.org/img/web3js.svg" width="48" height="48" alt="Web3.js" />
 <br>Web3.js
-</td>
 </td>
 </tr>
 </table>
@@ -254,7 +267,8 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 </div>
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+<!-- Neon Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## Featured Projects
 
@@ -478,8 +492,6 @@ Tech: MERN | Express | Node
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
-
 ## GitHub Statistics
 
 <div align="center">
@@ -500,9 +512,10 @@ Tech: MERN | Express | Node
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+<!-- Cyber Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake-dark.svg">
@@ -510,9 +523,10 @@ Tech: MERN | Express | Node
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+<!-- Hologram Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -534,7 +548,8 @@ Tech: MERN | Express | Node
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
@@ -546,11 +561,12 @@ Tech: MERN | Express | Node
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185e-9a22-4b87-b8e0-62e7f4aba075.gif" width="100%">
+<!-- Tech Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
-## Let's Build The Future Together!
+## 🚀 Let's Build The Future Together!
 
 </div>
 
@@ -568,17 +584,11 @@ Tech: MERN | Express | Node
 
 <br/>
 
-### Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzhaanGlitch&theme=radical" width="100%"/>
-
-<br/>
-
 ---
 
 <div align="center">
 
-### My Expertise
+### 🎯 My Expertise
 
 <table>
 <tr>
@@ -641,6 +651,7 @@ Tech: MERN | Express | Node
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=100&section=footer"/>
+<!-- Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer"/>
 
 </div>
