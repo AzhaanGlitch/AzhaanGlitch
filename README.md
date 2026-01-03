@@ -14,9 +14,6 @@
 
 </div>
 
-<!-- Hologram Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
 ## About Me
 
 <div align="center">
@@ -267,9 +264,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** with hands-on expe
 </div>
 </details>
 
-<!-- Neon Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
 ## Featured Projects
 
 <div align="center">
@@ -512,10 +506,7 @@ Tech: MERN | Express | Node
 
 </div>
 
-<!-- Cyber Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake-dark.svg">
@@ -523,10 +514,7 @@ Tech: MERN | Express | Node
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AzhaanGlitch/AzhaanGlitch/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Hologram Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -548,12 +536,10 @@ Tech: MERN | Express | Node
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -566,7 +552,7 @@ Tech: MERN | Express | Node
 
 <div align="center">
 
-## 🚀 Let's Build The Future Together!
+## Let's Build The Future Together!
 
 </div>
 
@@ -588,7 +574,7 @@ Tech: MERN | Express | Node
 
 <div align="center">
 
-### 🎯 My Expertise
+### My Expertise
 
 <table>
 <tr>
