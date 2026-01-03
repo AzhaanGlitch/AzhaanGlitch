@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Matrix/Cyber Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header&text=Azhaan%20Ali%20Siddiqui&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Blockchain%20Developer&descAlignY=51&descAlign=50&animation=fadeIn&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,003300,00FF41,003300,000000&height=180&section=header&text=Azhaan%20Ali%20Siddiqui&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Blockchain%20Developer&descAlignY=51&descAlign=50&animation=fadeIn&fontColor=fff"/>
 
 <!-- Terminal Style Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=FF6B35&center=true&vCenter=true&width=940&height=80&lines=~%2F+sudo+apt+install+awesome-developer;~%2F+Initializing+Azhaan+Ali+Siddiqui...;~%2F+Loading+MERN+Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;~%2F+AI%2FML+%26+Blockchain+Ready+%E2%9C%93;~%2F+Building+the+future%2C+one+commit+at+a+time;~%2F+Recreating+nostalgic+experiences+with+modern+tech" alt="Typing Animation" />
@@ -638,6 +638,6 @@ Tech: MERN | Express | Node
 </div>
 
 <!-- Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,003300,00FF41,003300,000000&height=100&section=footer"/>
 
 </div>
