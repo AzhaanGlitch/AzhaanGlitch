@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:61b5fd,100:01335e&height=180&section=header&text=Azhaan%20Ali%20Siddiqui&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Blockchain%20Developer&descAlignY=51&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
 
 <!-- Terminal Style Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=004e14&center=true&vCenter=true&width=940&height=80&lines=~%2F+sudo+apt+install+awesome-developer;~%2F+Initializing+Azhaan+Ali+Siddiqui...;~%2F+Loading+MERN+Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;~%2F+AI%2FML+%26+Blockchain+Ready+%E2%9C%93;~%2F+Building+the+future%2C+one+commit+at+a+time;~%2F+Recreating+nostalgic+experiences+with+modern+tech" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=88c6fd&center=true&vCenter=true&width=940&height=80&lines=~%2F+sudo+apt+install+awesome-developer;~%2F+Initializing+Azhaan+Ali+Siddiqui...;~%2F+Loading+MERN+Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;~%2F+AI%2FML+%26+Blockchain+Ready+%E2%9C%93;~%2F+Building+the+future%2C+one+commit+at+a+time;~%2F+Recreating+nostalgic+experiences+with+modern+tech" alt="Typing Animation" />
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AzhaanGlitch&color=01335e&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000&color_text=000000)](https://github.com/AzhaanGlitch)
@@ -630,6 +630,6 @@ Tech: MERN | Express | Node
 </div>
 
 <!-- Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:01335e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:61b5fd,100:01335e&height=100&section=footer"/>
 
 </div>
