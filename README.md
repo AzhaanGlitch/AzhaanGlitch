@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=180&section=header&text=Azhaan%20Ali%20Siddiqui&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Blockchain%20Developer&descAlignY=51&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:004e14&height=180&section=header&text=Azhaan%20Ali%20Siddiqui&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Blockchain%20Developer&descAlignY=51&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
 
 <!-- Terminal Style Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&height=80&lines=~%2F+sudo+apt+install+awesome-developer;~%2F+Initializing+Azhaan+Ali+Siddiqui...;~%2F+Loading+MERN+Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;~%2F+AI%2FML+%26+Blockchain+Ready+%E2%9C%93;~%2F+Building+the+future%2C+one+commit+at+a+time;~%2F+Recreating+nostalgic+experiences+with+modern+tech" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=004e14&center=true&vCenter=true&width=940&height=80&lines=~%2F+sudo+apt+install+awesome-developer;~%2F+Initializing+Azhaan+Ali+Siddiqui...;~%2F+Loading+MERN+Stack+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;~%2F+AI%2FML+%26+Blockchain+Ready+%E2%9C%93;~%2F+Building+the+future%2C+one+commit+at+a+time;~%2F+Recreating+nostalgic+experiences+with+modern+tech" alt="Typing Animation" />
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AzhaanGlitch&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000&color_text=000000)](https://github.com/AzhaanGlitch)
-[![GitHub followers](https://img.shields.io/github/followers/AzhaanGlitch?style=for-the-badge&color=00FF41&labelColor=000000&logoColor=000000)](https://github.com/AzhaanGlitch)
-[![GitHub Stars](https://img.shields.io/github/stars/AzhaanGlitch?style=for-the-badge&color=00FF41&labelColor=000000&logoColor=000000)](https://github.com/AzhaanGlitch)
+[![Profile Views](https://komarev.com/ghpvc/?username=AzhaanGlitch&color=004e14&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000&color_text=000000)](https://github.com/AzhaanGlitch)
+[![GitHub followers](https://img.shields.io/github/followers/AzhaanGlitch?style=for-the-badge&color=004e14&labelColor=000000&logoColor=000000)](https://github.com/AzhaanGlitch)
+[![GitHub Stars](https://img.shields.io/github/stars/AzhaanGlitch?style=for-the-badge&color=004e14&labelColor=000000&logoColor=000000)](https://github.com/AzhaanGlitch)
 
 </div>
 
@@ -292,10 +292,10 @@ Tech: React | Tailwind | JS
 <br/>
 
 <a href="https://windows-xp-portfolio-flame.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Live_Demo-004e14?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 <a href="https://github.com/AzhaanGlitch/windows-xp">
-<img src="https://img.shields.io/badge/View_Code-00FF41?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/View_Code-004e14?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
@@ -326,10 +326,10 @@ Tech: Next.js | Docker | AWS
 <br/>
 
 <a href="https://arvialo.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Live_Demo-004e14?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 <a href="https://github.com/AzhaanGlitch/Arvialo">
-<img src="https://img.shields.io/badge/View_Code-00FF41?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/View_Code-004e14?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
@@ -360,10 +360,10 @@ Tech: Python | OpenCV | ML
 <br/>
 
 <a href="https://azhaanglitch-vigilcam.hf.space/">
-<img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=huggingface&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Live_Demo-004e14?style=for-the-badge&logo=huggingface&logoColor=000000"/>
 </a>
 <a href="https://github.com/AzhaanGlitch/VigilCam">
-<img src="https://img.shields.io/badge/View_Code-00FF41?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/View_Code-004e14?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
@@ -396,10 +396,10 @@ Tech: TensorFlow | Keras | DL
 <br/>
 
 <a href="https://smart-accident-detector-frontend-v1-one.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Live_Demo-004e14?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 <a href="https://github.com/AzhaanGlitch/Smart-Accident-Detector">
-<img src="https://img.shields.io/badge/View_Code-00FF41?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/View_Code-004e14?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
@@ -430,10 +430,10 @@ Tech: MERN | REST API
 <br/>
 
 <a href="https://crave-recipe-finder.onrender.com/">
-<img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=render&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Live_Demo-004e14?style=for-the-badge&logo=render&logoColor=000000"/>
 </a>
 <a href="https://github.com/AzhaanGlitch/Crave">
-<img src="https://img.shields.io/badge/View_Code-00FF41?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/View_Code-004e14?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
@@ -464,10 +464,10 @@ Tech: MERN | Express | Node
 <br/>
 
 <a href="https://azhaan.dev">
-<img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=vercel&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Live_Demo-004e14?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </a>
 <a href="https://github.com/AzhaanGlitch/Portfolio">
-<img src="https://img.shields.io/badge/View_Code-00FF41?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/View_Code-004e14?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
@@ -619,7 +619,7 @@ Tech: MERN | Express | Node
 
 <br/>
 
-![Made in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India-orange?style=for-the-badge)
+![Made in India](https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge)
 
 </div>
 
@@ -630,6 +630,6 @@ Tech: MERN | Express | Node
 </div>
 
 <!-- Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:004e14&height=100&section=footer"/>
 
 </div>
